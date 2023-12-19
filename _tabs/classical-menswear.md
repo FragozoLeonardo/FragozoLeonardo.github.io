@@ -1,4 +1,4 @@
 ---
 icon: fas fa-user-tie
-order: 5
+order: 7
 ---
