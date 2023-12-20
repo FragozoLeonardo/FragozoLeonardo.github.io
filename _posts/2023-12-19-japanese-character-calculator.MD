@@ -1,7 +1,7 @@
 ---
 title: Japanese Character Calculator
 date: 2023-12-19 14:55:00 +/-TTTT
-categories: [Portfolio]
+categories: [portfolio]
 permalink: /portfolio/japanese-character-calculator/
 tags: [html, css, javascript, web-development, project, portfolio, japanese-language]
 ---

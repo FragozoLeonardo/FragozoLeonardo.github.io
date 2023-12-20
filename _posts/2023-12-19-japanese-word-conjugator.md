@@ -1,7 +1,7 @@
 ---
 title: Japanese Word Conjugator CLI (KatsuYOU)
 date: 2023-12-19 15:00:00 +/-TTTT
-categories: [Portfolio]
+categories: [portfolio]
 permalink: /portfolio/japanese-word-conjugator/
 tags: [ruby, rspec, tests, cli, project, portfolio, japanese-language]
 ---
