@@ -3,7 +3,7 @@ title: Ruby and Rails Book Recommendations (And Bucket List) For 2024
 date: 2023-12-26 13:55:00 +/-TTTT
 categories: [programming]
 permalink: /programming/ruby-rails-books-recommendations-2024/
-tags: [html, css, ruby, ruby on rails, ror, programming, web-developing, books, recommendations]
+tags: [ruby, ruby on rails, ror, programming, web-developing, books, recommendations]
 ---
 
 <div style="text-align: center;">
